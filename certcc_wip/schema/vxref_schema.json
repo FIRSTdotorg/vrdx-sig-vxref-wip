@@ -1,5 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "https://www.first.org/global/sigs/vrdx/vrdx_vxref_certcc_0_1.json"
     "title": "VXREF (CERT/CC prototype) 0.1",
     "description": "a representation of the relationship between vulnerability records",
     "type": "object",
