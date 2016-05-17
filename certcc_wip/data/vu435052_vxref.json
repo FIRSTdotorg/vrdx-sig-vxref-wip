@@ -1,0 +1,180 @@
+{
+  "version": "certcc_0.1",
+  "references": [
+      { 
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "rel_type": "superset",
+          "object": {
+              "issuer": "MITRE CVE",
+              "id":  "CVE-2009-0801"
+          }
+      },
+      { 
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "rel_type": "superset",
+          "object": {
+              "issuer": "MITRE CVE",
+              "id":  "CVE-2009-0802"
+          }
+      },
+      { 
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "rel_type": "superset",
+          "object": {
+              "issuer": "MITRE CVE",
+              "id":  "CVE-2009-0803"
+          }
+      },     
+      { 
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "rel_type": "superset",
+          "object": {
+              "issuer": "MITRE CVE",
+              "id":  "CVE-2009-0804"
+          }
+      },
+      { 
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "rel_type": "equal",
+          "object": {
+              "issuer": "BugTraq",
+              "id":  "33858"
+          }
+      },    
+      { 
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "rel_type": "subset",
+          "object": {
+              "issuer": "MITRE CWE",
+              "id":  "CWE-264"
+          }
+      },
+      {
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "MAPG-7N9GN8"
+          },
+          "rel_type": "subset",
+          "object": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "content_tags": ["VendorAdvisory"]
+      },
+      {
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "MAPG-7M6SBR"
+          },
+          "rel_type": "subset",
+          "object": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "content_tags": ["VendorAdvisory"]
+      },
+      {
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "RGII-7RBRKD"
+          },
+          "rel_type": "subset",
+          "object": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "content_tags": ["VendorAdvisory"]
+      },
+      {
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "RGII-7PSJ5M"
+          },
+          "rel_type": "subset",
+          "object": {
+              "issuer": "CERT/CC", 
+              "id": "VU#435052"
+          },
+          "content_tags": ["VendorAdvisory"]
+      },
+      {
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "RGII-7PSJ5M"
+          },
+          "rel_type": "equal",
+          "object": "http://www.seil.jp/english/seilseries/security/2009/04091700.php",
+          "content_tags": ["VendorAdvisory"]
+      },
+      {
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "MAPG-7N9GN8"
+          },
+          "rel_type": "equal",
+          "object": {
+              "issuer": "CVE", 
+              "id": "CVE-2009-0804"
+          },
+          "content_tags": ["VendorAdvisory"]
+      },
+      {
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "MAPG-7MWGZF"
+          },
+          "rel_type": "equal",
+          "object": {
+              "issuer": "CVE", 
+              "id": "CVE-2009-0801"
+          },
+          "content_tags": ["VendorAdvisory"]
+      },
+      {
+          "datetime": "20160517T12:05:57Z-04:00",
+          "subject": {
+              "issuer": "CERT/CC", 
+              "id": "MAPG-7M6SM7"
+          },
+          "rel_type": "equal",
+          "object": {
+              "issuer": "CVE", 
+              "id": "CVE-2009-0803"
+          },
+          "content_tags": ["VendorAdvisory"]
+      }
+  ]
+}
+
+
