@@ -1,0 +1,171 @@
+{
+    "version": "certcc_0.2",
+    "datetime": "20160517T12:05:57Z-04:00",
+    "vulnerability_records": [
+        {
+            "id": {
+                "issuer": "CERT/CC",
+                "id": "VU#435052"
+            },
+            "references": [
+                {
+                    "rel_type": "superset",
+                    "object": {
+                        "issuer": "MITRE CVE",
+                        "id": "CVE-2009-0801"
+                    }
+                },
+                {
+                    "rel_type": "superset",
+                    "object": {
+                        "issuer": "MITRE CVE",
+                        "id": "CVE-2009-0802"
+                    }
+                },
+                {
+                    "rel_type": "superset",
+                    "object": {
+                        "issuer": "MITRE CVE",
+                        "id": "CVE-2009-0803"
+                    }
+                },
+                {
+                    "rel_type": "superset",
+                    "object": {
+                        "issuer": "MITRE CVE",
+                        "id": "CVE-2009-0804"
+                    }
+                },
+                {
+                    "rel_type": "equal",
+                    "object": {
+                        "issuer": "BugTraq",
+                        "id": "33858"
+                    }
+                },
+                {
+                    "rel_type": "subset",
+                    "object": {
+                        "issuer": "MITRE CWE",
+                        "id": "CWE-264"
+                    }
+                },
+                {
+                    "rel_type": "superset",
+                    "object": {
+                        "issuer": "CERT/CC",
+                        "id": "MAPG-7N9GN8"
+                    },
+                    "content_tags": [
+                        "VendorAdvisory"
+                    ]
+                },
+                {
+                    "rel_type": "superset",
+                    "object": {
+                        "issuer": "CERT/CC",
+                        "id": "MAPG-7M6SBR"
+                    },
+                    "content_tags": [
+                        "VendorAdvisory"
+                    ]
+                },
+                {
+                    "rel_type": "superset",
+                    "object": {
+                        "issuer": "CERT/CC",
+                        "id": "RGII-7RBRKD"
+                    },
+                    "content_tags": [
+                        "VendorAdvisory"
+                    ]
+                },
+                {
+                    "rel_type": "superset",
+                    "object": {
+                        "issuer": "CERT/CC",
+                        "id": "RGII-7PSJ5M"
+                    },
+                    "content_tags": [
+                        "VendorAdvisory"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": {
+                "issuer": "CERT/CC",
+                "id": "RGII-7PSJ5M"
+            },
+            "references": [
+                {
+                    "rel_type": "equal",
+                    "object": "http://www.seil.jp/english/seilseries/security/2009/04091700.php",
+                    "content_tags": [
+                        "VendorAdvisory"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": {
+                "issuer": "CERT/CC",
+                "id": "MAPG-7MWGZF"
+            },
+            "references": [
+                {
+                    "rel_type": "equal",
+                    "object": {
+                        "issuer": "CVE",
+                        "id": "CVE-2009-0801"
+                    }
+                }
+            ]
+        },
+        {
+            "id": {
+                "issuer": "CERT/CC",
+                "id": "MAPG-7NBJ4P"
+            },
+            "references": [
+                {
+                    "rel_type": "equal",
+                    "object": {
+                        "issuer": "CVE",
+                        "id": "CVE-2009-0802"
+                    }
+                }
+            ]
+        },
+        {
+            "id": {
+                "issuer": "CERT/CC",
+                "id": "MAPG-7M6SM7"
+            },
+            "references": [
+                {
+                    "rel_type": "equal",
+                    "object": {
+                        "issuer": "CVE",
+                        "id": "CVE-2009-0803"
+                    }
+                }
+            ]
+        },
+        {
+            "id": {
+                "issuer": "CERT/CC",
+                "id": "MAPG-7N9GN8"
+            },
+            "references": [
+                {
+                    "rel_type": "equal",
+                    "object": {
+                        "issuer": "CVE",
+                        "id": "CVE-2009-0804"
+                    }
+                }
+            ]
+        }
+    ]
+}

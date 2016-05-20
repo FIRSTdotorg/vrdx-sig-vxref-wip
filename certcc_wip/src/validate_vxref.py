@@ -10,12 +10,12 @@ import json
 
 def validate_vxref():
     # load doc
-    doc_path = "../data/vu435052_vxref.json"
+    doc_path = "../data/vu435052_vxref_02.json"
     with open(doc_path, 'r') as f:
         doc = json.load(f)
 
     # load schema
-    schema_path = "../schema/vxref_schema.json"
+    schema_path = "../schema/vxref_schema_02.json"
     with open(schema_path, 'r') as f:
         schema = json.load(f)
 
