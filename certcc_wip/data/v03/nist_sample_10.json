@@ -1,0 +1,456 @@
+{
+  "records": [
+    {
+      "record_id": {
+        "id": "CVE-2015-8095",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "content_tags": [
+            "VendorAdvisory",
+            "Patch"
+          ],
+          "rel_type": "related",
+          "location": "https://www.drupal.org/node/2608382"
+        },
+        {
+          "content_tags": [
+            "Patch"
+          ],
+          "rel_type": "related",
+          "location": "https://www.drupal.org/node/2608414"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2015-0374",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://packetstormsecurity.com/files/131271/VMware-Security-Advisory-2015-0003.html"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.securityfocus.com/archive/1/archive/1/535181/100/0/threaded"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://seclists.org/fulldisclosure/2015/Apr/5"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://xforce.iss.net/xforce/xfdb/100191"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.securityfocus.com/bid/72227"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://secunia.com/advisories/62732"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://secunia.com/advisories/62730"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://secunia.com/advisories/62728"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.securitytracker.com/id/1031581"
+        },
+        {
+          "record_id": {
+            "id": "RHSA-2015:0118",
+            "issuer": "http://www.redhat.com"
+          },
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://rhn.redhat.com/errata/RHSA-2015-0118.html"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.ubuntu.com/usn/USN-2480-1"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.debian.org/security/2015/dsa-3135"
+        },
+        {
+          "record_id": {
+            "id": "RHSA-2015:0116",
+            "issuer": "http://www.redhat.com"
+          },
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://rhn.redhat.com/errata/RHSA-2015-0116.html"
+        },
+        {
+          "record_id": {
+            "id": "RHSA-2015:0117",
+            "issuer": "http://www.redhat.com"
+          },
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://rhn.redhat.com/errata/RHSA-2015-0117.html"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://lists.fedoraproject.org/pipermail/package-announce/2015-February/149929.html"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory",
+            "Patch"
+          ],
+          "rel_type": "related",
+          "location": "http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2015-7066",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "record_id": {
+            "id": "APPLE-SA-2015-12-08-2",
+            "issuer": "http://www.apple.com"
+          },
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "http://lists.apple.com/archives/security-announce/2015/Dec/msg00001.html"
+        },
+        {
+          "record_id": {
+            "id": "APPLE-SA-2015-12-08-3",
+            "issuer": "http://www.apple.com"
+          },
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "http://lists.apple.com/archives/security-announce/2015/Dec/msg00005.html"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "https://support.apple.com/HT205637"
+        },
+        {
+          "record_id": {
+            "id": "APPLE-SA-2015-12-08-1",
+            "issuer": "http://www.apple.com"
+          },
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "http://lists.apple.com/archives/security-announce/2015/Dec/msg00000.html"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "https://support.apple.com/HT205641"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "https://support.apple.com/HT205635"
+        },
+        {
+          "record_id": {
+            "id": "APPLE-SA-2015-12-08-4",
+            "issuer": "http://www.apple.com"
+          },
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "http://lists.apple.com/archives/security-announce/2015/Dec/msg00002.html"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "https://support.apple.com/HT205640"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2015-5255",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "content_tags": [
+            "VendorAdvisory",
+            "Patch"
+          ],
+          "rel_type": "related",
+          "location": "https://helpx.adobe.com/security/products/coldfusion/apsb15-29.html"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory",
+            "Patch"
+          ],
+          "rel_type": "related",
+          "location": "https://helpx.adobe.com/security/products/livecycleds/apsb15-30.html"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2015-3780",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "record_id": {
+            "id": "APPLE-SA-2015-08-13-2",
+            "issuer": "http://www.apple.com"
+          },
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "http://lists.apple.com/archives/security-announce/2015/Aug/msg00001.html"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "https://support.apple.com/kb/HT205031"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2014-8135",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://security.libvirt.org/2014/0009.html"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://lists.opensuse.org/opensuse-updates/2015-01/msg00005.html"
+        },
+        {
+          "content_tags": [
+            "Exploit"
+          ],
+          "rel_type": "related",
+          "location": "https://bugzilla.redhat.com/show_bug.cgi?id=1087104"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "http://libvirt.org/git/?p=libvirt.git;a=commit;h=87b9437f8951f9d24f9a85c6bbfff0e54df8c984"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://secunia.com/advisories/61111"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2015-2790",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.securitytracker.com/id/1031877"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.foxitsoftware.com/support/security_bulletins.php#FRD-23"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.foxitsoftware.com/support/security_bulletins.php#FRD-24"
+        },
+        {
+          "content_tags": [
+            "Exploit"
+          ],
+          "rel_type": "related",
+          "location": "http://protekresearchlab.com/PRL-2015-02/"
+        },
+        {
+          "content_tags": [
+            "Exploit"
+          ],
+          "rel_type": "related",
+          "location": "http://protekresearchlab.com/prl-2015-01prl-foxit-products-gif-conversion-memory-corruption-vulnerabilities-lzwminimumcodesize/"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://securitytracker.com/id/1031878"
+        },
+        {
+          "record_id": {
+            "id": "119302",
+            "issuer": "http://www.osvdb.org"
+          },
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.osvdb.org/119302"
+        },
+        {
+          "content_tags": [
+            "Exploit"
+          ],
+          "rel_type": "related",
+          "location": "http://www.exploit-db.com/exploits/36335"
+        },
+        {
+          "record_id": {
+            "id": "119303",
+            "issuer": "http://www.osvdb.org"
+          },
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.osvdb.org/119303"
+        },
+        {
+          "content_tags": [
+            "Exploit"
+          ],
+          "rel_type": "related",
+          "location": "http://www.exploit-db.com/exploits/36334"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2015-5507",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "content_tags": [
+            "VendorAdvisory",
+            "Patch"
+          ],
+          "rel_type": "related",
+          "location": "https://www.drupal.org/node/2507605"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.openwall.com/lists/oss-security/2015/07/04/4"
+        },
+        {
+          "content_tags": [
+            "Patch"
+          ],
+          "rel_type": "related",
+          "location": "https://www.drupal.org/node/2507593"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2015-3282",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "https://www.openafs.org/dl/openafs/1.6.13/RELNOTES-1.6.13"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "http://www.openafs.org/pages/security/OPENAFS-SA-2015-001.txt"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www.debian.org/security/2015/dsa-3320"
+        },
+        {
+          "content_tags": [
+            "VendorAdvisory"
+          ],
+          "rel_type": "related",
+          "location": "https://lists.openafs.org/pipermail/openafs-announce/2015/000486.html"
+        }
+      ]
+    },
+    {
+      "record_id": {
+        "id": "CVE-2015-4997",
+        "issuer": "http://cve.mitre.org"
+      },
+      "references": [
+        {
+          "content_tags": [
+            "VendorAdvisory",
+            "Patch"
+          ],
+          "rel_type": "related",
+          "location": "http://www-01.ibm.com/support/docview.wss?uid=swg21968474"
+        },
+        {
+          "content_tags": [],
+          "rel_type": "related",
+          "location": "http://www-01.ibm.com/support/docview.wss?uid=swg1PI47694"
+        }
+      ]
+    }
+  ],
+  "version": "VXref_0.3",
+  "created": "20160609T10:30:15-04:00"
+}
