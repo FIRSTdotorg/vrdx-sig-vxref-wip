@@ -1,0 +1,85 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "https://www.first.org/global/sigs/vrdx/vrdx_vxref_certcc_0_2.json",
+    "title": "VXref prototype version 0.3",
+    "description": "a representation of the relationship between vulnerability records",
+    "type": "object",
+    "required": [
+        "version",
+        "created",
+        "records"
+    ],
+    "properties": {
+        "version": {
+            "type": "string",
+            "pattern": "^VXref_0.3$"
+        },
+        "created": {
+                "type": "string",
+                "format": "date-time"
+        },
+        "records": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/vulnerability_record"
+            }
+        }
+    },
+    "definitions": {
+        "vulnerability_record": {
+            "type": "object",
+            "required": ["record_id","references"],
+            "properties": {
+                "record_id": { "$ref": "#/definitions/record_id" },
+                "references": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/xref"
+                    }
+                }
+            }
+        },
+        "xref": {
+            "type": "object",
+            "required": ["rel_type"],
+            "OneOf": [
+              {"required": ["location"]},
+              {"required": ["record_id"]}
+            ],
+            "properties": {
+                "rel_type": {
+                    "type": "string",
+                    "enum": [
+                        "possibly_related",
+                        "related",
+                        "not equal",
+                        "equal",
+                        "superset",
+                        "subset",
+                        "overlap"
+                    ]
+                 },
+                 "content_tags": {
+                     "type": "array",
+                     "items": {
+                         "type": "string"
+                     }
+                 },
+                "record_id": { "$ref": "#/definitions/record_id" },
+                "location": { "$ref": "#/definitions/location" }
+            }
+        },
+        "record_id": {
+            "type": "object",
+            "required": ["id","issuer"],
+            "properties": {
+                "issuer": { "type": "string" },
+                "ID": { "type": "string" }
+            }
+        },
+        "location": {
+            "type": "string",
+            "format": "uri"
+        }
+      }
+}
